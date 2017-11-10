@@ -852,3 +852,4 @@ services/sync          431858:2779d2d4bacc  -----:------------   mar            
 [l10n-mozilla-58.0] (for central)
 target dir             mozilla and comm hg changeset rev:id      by              comment
 --------------------------------------------------------------------------------------------------------------
+mobile                 391144:6683618bb98e  -----:------------   kechol          sync mobile
